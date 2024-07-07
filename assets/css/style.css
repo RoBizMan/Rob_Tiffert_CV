@@ -388,6 +388,16 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+/* ---------- Google Maps ---------- */
+
+/* 
+ * Always set the map height explicitly to define the size of the div element
+ * that contains the map. 
+ */
+#map {
+    height: 100%;
+}
+
 /* ---------- Media Queries ---------- */
 
 @media(min-width: 992px) {
