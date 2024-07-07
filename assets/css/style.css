@@ -395,7 +395,7 @@ button[type="submit"] {
  * that contains the map. 
  */
 #map {
-    height: 100%;
+    min-height: 450px;
 }
 
 /* ---------- Media Queries ---------- */
